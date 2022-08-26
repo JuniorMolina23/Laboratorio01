@@ -1,0 +1,16 @@
+.cont-sec{
+    align-content: center;
+    display:block;
+}
+.secundario{
+    font-size: 50px;
+    text-align: center;
+}
+.secundario2{
+    font-size: 20px;
+    text-align: center;
+}
+.imagen-c{
+    display:flex;
+    margin: auto;
+}
